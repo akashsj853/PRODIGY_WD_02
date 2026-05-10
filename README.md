@@ -131,6 +131,4 @@ This Stopwatch Web Application is a beginner-friendly front-end project that dem
 
 ---
 
-# 👩‍💻 Author
 
-Shreya Kashi
