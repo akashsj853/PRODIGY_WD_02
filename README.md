@@ -113,8 +113,7 @@ Through this project, the following concepts were learned:
 
 # 🔗 GitHub Repository
 
-https://github.com/shreya-kashi/PRODIGY_WD_02.git
-```
+
 
 # 📈 Future Improvements
 
